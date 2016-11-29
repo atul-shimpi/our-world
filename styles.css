@@ -1,0 +1,20 @@
+* {
+  font-family: "Arial";
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.app-title-bg {
+  background-color: RGB(230, 230, 230);
+  height: 50px;
+  line-height: 50px;
+  padding-left: 20px;
+}
+
+.app-title-text {
+  display:inline;
+  color: RGB(34, 177, 76);
+}
